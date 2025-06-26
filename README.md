@@ -27,11 +27,10 @@ My projects took on more programming, integrating, and architecting until I foun
 
 - **As a principal software engineer**, I hit my stride. From building tooling and infrastructure, to making company-wide architecture decisions, I helped grow business, teams, and people.
 
-*Cheers to many more years of developing software, people, and ourselves. Let’s better the quality of life for everyone.*
-
 ## Where are we going?
 
 Most of my work has been on designing, building, and optimizing backend systems, with a focus on system architecture, API implementation, cloud infrastructure, and developer productivity. 
 
 I am always looking for interesting work to do, and love a mission-driven product. Whether a fresh start or a legacy journey, I'm ready for an adventure. Let's build together!
 
+*Cheers to many more years of developing software, people, and ourselves. Let’s better the quality of life for everyone.*
