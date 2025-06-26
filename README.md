@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## How Did We Get Here?
+## How did we get here?
 
 My start in tech was as a young hoodlum with a Windows 95 computer, a dial up internet connection, and pirated software. Luckily I am out of that world now, but I had to quickly learn to deal with broken technology, either out of ignorance or malice.
 
