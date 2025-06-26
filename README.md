@@ -21,11 +21,11 @@ When I decided to become legitimate, I focused on web development as that was a 
 
 My projects took on more programming, integrating, and architecting until I found myself in the role of a software engineer.
 
-**As a software engineer**, I enjoyed working with teams and individuals over time to create solutions that have reduced stress and frustration, and helped individuals focus on work that matters.
+- **As a software engineer**, I enjoyed working with teams and individuals over time to create solutions that have reduced stress and frustration, and helped individuals focus on work that matters.
 
-**As a engineering team lead**, it was the joy of being able to support developers during challenging moments, celebrating their achievements, and growing alongside them, that made it all worth it.
+- **As a engineering team lead**, it was the joy of being able to support developers during challenging moments, celebrating their achievements, and growing alongside them, that made it all worth it.
 
-**As a principal software engineer**, I hit my stride. From building tooling and infrastructure, to making company-wide architecture decisions, I helped grow business, teams, and people.
+- **As a principal software engineer**, I hit my stride. From building tooling and infrastructure, to making company-wide architecture decisions, I helped grow business, teams, and people.
 
 *Cheers to many more years of developing software, people, and ourselves. Let’s better the quality of life for everyone.*
 
